@@ -24,3 +24,8 @@ We used Xampp to manage our web server and database, Linguify.sql is provided in
 ## Usage
 - Teachers
 - Students
+
+
+## Contributers
+- Mohammad Aker
+- Shahd Salahat
